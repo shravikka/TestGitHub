@@ -1,2 +1,2 @@
 # TestGitHub
-Node js app
+This is a Sample Node js app
